@@ -178,7 +178,9 @@ h1 {
 
 #borda1 {
     width: 1140px;
-    margin: 15px 10px 50px 380px;
+    margin: 15px 10px 50px 300px;
+    position: relative;
+    right: 100px;
     border: 5px double #f4d640;
     padding: auto;
     background-color: #7bb6da;
