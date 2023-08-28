@@ -166,7 +166,7 @@ h1 {
 
 #borda {
     width: 1140px;
-    margin: 15px 10px 15px 200px;
+    margin: 15px 10px 15px 300px;
     border: 5px double #f4d640;
     padding: auto;
     background-color: #7bb6da;
@@ -178,7 +178,7 @@ h1 {
 
 #borda1 {
     width: 1140px;
-    margin: 15px 10px 50px 200px;
+    margin: 15px 10px 50px 380px;
     border: 5px double #f4d640;
     padding: auto;
     background-color: #7bb6da;
